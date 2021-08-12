@@ -58,7 +58,7 @@ void Level1::Initialize() {
 
     GLuint carTexutreID = Util::LoadTexture("crate1_bump.png");
     Mesh* CarMesh = new Mesh();
-    CarMesh->LoadOBJ("cube.obj", 1);
+    CarMesh->LoadOBJ("raceCar.obj", 1);
 
     state.objects[1].textureID = carTexutreID;
     state.objects[1].position = state.player->position + glm::vec3(0.0f,-0.5f,-2.0f);
