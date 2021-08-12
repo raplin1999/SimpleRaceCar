@@ -1,0 +1,11 @@
+﻿  Effect.cpp
+C:\Users\lenovo\Desktop\IntroGame\Final Project\SDLProject\Effect.cpp(51,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenovo\Desktop\IntroGame\Final Project\SDLProject\Effect.cpp(55,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Level1.cpp
+  Menu.cpp
+  main.cpp
+C:\Users\lenovo\Desktop\IntroGame\Final Project\SDLProject\ShaderProgram.h(6,1): warning C4005: 'GL_GLEXT_PROTOTYPES': macro redefinition
+C:\Users\lenovo\Desktop\IntroGame\Final Project\SDLProject\main.cpp(7): message : see previous definition of 'GL_GLEXT_PROTOTYPES'
+C:\Users\lenovo\Desktop\IntroGame\Final Project\SDLProject\main.cpp(141,49): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\lenovo\Desktop\IntroGame\Final Project\SDLProject\Debug\SDLProject.exe
